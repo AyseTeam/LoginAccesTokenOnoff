@@ -1,5 +1,5 @@
 ### Log in to an onoff account with an acces token*
-1. [Find an onoff token](https://github.com/AyseTeam)
+1. [Find an onoff token](https://github.com/AyseTeam/Get-AccessToken-Onoff)
 
 2. Then got to [web.onoff.app](https://web.onoff.app)
 ![](https://cdn.discordapp.com/attachments/630791610090913815/935249620139900978/unknown.png)
